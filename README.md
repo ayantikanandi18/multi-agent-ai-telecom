@@ -22,7 +22,7 @@ This system models how **distributed AI agents** can:
 
 ## 🧠 System Architecture
 
-![System Architecture](system.jpg)
+![System Architecture](system_architecture.jpg)
 
 ---
 
