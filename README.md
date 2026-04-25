@@ -1,4 +1,4 @@
-# 🚀 Multi-Agent AI System for Intelligent Telecom Operations
+# Multi-Agent AI System for Intelligent Telecom Operations
 
 A production-style **multi-agent AI system** designed to simulate intelligent telecom operations using autonomous agents, shared context, and real-time decision workflows.
 
@@ -6,7 +6,7 @@ This system demonstrates how modern telecom platforms can leverage **collaborati
 
 ---
 
-## 🌐 Overview
+##  Overview
 
 Telecom environments are highly dynamic with continuous network events, large-scale user interactions, and mission-critical service requirements.
 
@@ -20,15 +20,15 @@ This system models how **distributed AI agents** can:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ![System Architecture](system_architecture.jpg)
 
 ---
 
-## 🤖 Core Agents
+##  Core Agents
 
-### 🧩 Orchestrator (Decision Engine)
+###  Orchestrator (Decision Engine)
 
 * Performs intent detection
 * Routes tasks to relevant agents
@@ -37,7 +37,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-### 💬 Chatbot Agent
+### Chatbot Agent
 
 * Handles user interaction
 * Interprets telecom queries
@@ -48,7 +48,7 @@ This system models how **distributed AI agents** can:
 
 
 
-### 📡 Network Monitoring Agent
+### Network Monitoring Agent
 
 * Simulates network diagnostics
 * Detects signal and connectivity issues
@@ -57,7 +57,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-### 💳 Billing Intelligence Agent
+###  Billing Intelligence Agent
 
 * Handles billing and payment queries
 * Explains invoices and usage spikes
@@ -66,7 +66,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-### ⚠️ Anomaly Detection Agent
+###  Anomaly Detection Agent
 
 * Detects abnormal patterns in usage/network
 * Identifies repeated failures
@@ -75,7 +75,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-### ⚙️ Resource Optimization Agent
+###  Resource Optimization Agent
 
 * Simulates bandwidth allocation
 * Suggests load balancing strategies
@@ -84,7 +84,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-### 🚨 Escalation Agent
+###  Escalation Agent
 
 * Handles unresolved or critical issues
 * Simulates ticket creation workflows
@@ -93,7 +93,7 @@ This system models how **distributed AI agents** can:
 
 ---
 
-## 🔌 MCP Integration Agent (Context Layer)
+## MCP Integration Agent (Context Layer)
 
 The system includes a dedicated **MCP (Model Context Protocol) Agent** that enables seamless integration with multiple backend systems.
 
@@ -109,7 +109,7 @@ The system includes a dedicated **MCP (Model Context Protocol) Agent** that enab
 
 ## 🔗 Connected Systems
 
-### 📊 Telecom Logs System
+###  Telecom Logs System
 
 * Network logs and historical incidents
 * Outage patterns and diagnostics data
@@ -117,7 +117,7 @@ The system includes a dedicated **MCP (Model Context Protocol) Agent** that enab
 
 ---
 
-### 🗄️ Customer & Billing System
+###  Customer & Billing System
 
 * User plans and billing history
 * Payment and recharge details
@@ -125,7 +125,7 @@ The system includes a dedicated **MCP (Model Context Protocol) Agent** that enab
 
 ---
 
-## 🔄 End-to-End Workflow
+##  End-to-End Workflow
 
 ```text
 User submits query
@@ -147,7 +147,7 @@ Escalation triggered if unresolved
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
 * Multi-agent collaboration
 * Context-aware decision making (MCP)
@@ -159,9 +159,9 @@ Escalation triggered if unresolved
 
 ---
 
-## 🧪 Example Scenarios
+##  Example Scenarios
 
-### 📶 Network Issue
+###  Network Issue
 
 **Input:** "My internet is very slow"
 
@@ -171,7 +171,7 @@ Escalation triggered if unresolved
 
 ---
 
-### 💰 Billing Issue
+###  Billing Issue
 
 **Input:** "Why is my bill higher this month?"
 
@@ -181,7 +181,7 @@ Escalation triggered if unresolved
 
 ---
 
-### 🚨 Complaint
+###  Complaint
 
 **Input:** "I want to raise a complaint"
 
@@ -190,7 +190,7 @@ Escalation triggered if unresolved
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Telecom customer support automation
 * Network operations intelligence
@@ -200,7 +200,7 @@ Escalation triggered if unresolved
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Modular multi-agent architecture
@@ -210,7 +210,7 @@ Escalation triggered if unresolved
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 multi-agent-telecom-ai/
@@ -236,19 +236,19 @@ multi-agent-telecom-ai/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
-* LLM-powered intelligent agents
-* Real-time telecom API integrations
-* Streaming data pipelines (Kafka)
-* Vector-based semantic retrieval
-* Persistent memory across agents
-* Predictive network analytics
-* Autonomous learning agents
-
+* Add specialized LLM agents for billing, SIM/eSIM, roaming, network diagnostics, and plan recommendations
+* Implement MCP-based shared memory so agents can preserve customer context across workflows
+* Enable agent-to-agent task delegation for complex telecom support cases
+* Integrate real-time telecom APIs for outage checks, payment status, plan eligibility, and device provisioning
+* Add Kafka-based event streaming for live network alerts and support notifications
+* Use vector-based retrieval so agents can search telecom policies, FAQs, invoices, and troubleshooting guides
+* Add an Escalation Agent that creates tickets when confidence is low or human review is required
+* Build predictive agents for network congestion, churn risk, payment failure, and service degradation
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ayantika Nandi**
 AI Systems | Data Science | Backend Engineering
