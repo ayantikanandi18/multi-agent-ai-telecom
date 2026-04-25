@@ -22,29 +22,7 @@ This system models how **distributed AI agents** can:
 
 ## 🧠 System Architecture
 
-```text
-User Interaction Layer
-        │
-        ▼
-Chatbot Agent (Interface Layer)
-        │
-        ▼
-Central Orchestrator (Decision Engine)
-        │
- ┌──────┼───────────────────────────────────────────┐
- ▼      ▼              ▼              ▼             ▼
-Network Billing     Anomaly       Resource      Escalation
-Agent   Agent       Detection     Optimization  Agent
-                    Agent         Agent
-        │
-        ▼
-MCP Integration Agent (Context Layer)
-        │
- ┌───────────────┬────────────────────┐
- ▼               ▼
-Telecom Logs     Customer & Billing Data
-System           System
-```
+![System Architecture](system_architecture.jpg)
 
 ---
 
