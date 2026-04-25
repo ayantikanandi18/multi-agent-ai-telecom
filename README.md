@@ -65,11 +65,10 @@ System           System
 * Interprets telecom queries
 * Delegates tasks to orchestrator
 * Returns final responses
-
+![Chatbot Agent](telecom_agent.jpg)
  
 
 
----
 
 ### 📡 Network Monitoring Agent
 
