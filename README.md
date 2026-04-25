@@ -97,7 +97,7 @@ This system models how **distributed AI agents** can:
 
 The system includes a dedicated **MCP (Model Context Protocol) Agent** that enables seamless integration with multiple backend systems.
 
-### 🧠 Role of MCP Agent
+###  Role of MCP Agent
 
 * Fetches real-time contextual data
 * Maintains shared context across agents
